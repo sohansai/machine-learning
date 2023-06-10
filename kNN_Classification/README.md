@@ -1,6 +1,6 @@
 # kNN Classification
 
-This repository contains code that implements the k-Nearest Neighbors (k-NN) algorithm for classification using the Iris dataset. It explores different values of k to evaluate the model's performance on the training and testing datasets.
+This folder contains the code that implements the k-Nearest Neighbors (k-NN) algorithm for classification using the Iris dataset. It explores different values of k to evaluate the model's performance on the training and testing datasets.
 
 ## Requirements
 
